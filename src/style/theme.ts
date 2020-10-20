@@ -24,7 +24,7 @@ interface CustomProps {
 export const theme: CustomTheme = {
   ...createMuiTheme({
     palette: {
-      //   primary: lol,
+      //   primary: lol, okk
     },
   }),
   custom: {
